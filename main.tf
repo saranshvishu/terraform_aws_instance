@@ -7,6 +7,6 @@ resource "aws_instance" "one" {
   ami           = "ami-0866a3c8686eaeeba"
   instance_type = "t2.micro"
   tags = {
-    Name = "raham"
+    Name = "saransh"
   }
 }
